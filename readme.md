@@ -32,7 +32,7 @@ This project provides end-to-end analytics for IPL player auctions, combining hi
 
 ## 🚀 Live Demo
 
-[View Live Dashboard](https://your-app-name.streamlit.app) *(Update after deployment)*
+[View Live Dashboard](https://ipl-auction-analytics.streamlit.app/)
 
 ## 📊 Dataset
 
